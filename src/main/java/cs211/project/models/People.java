@@ -8,6 +8,10 @@ public class People {
     public People() {
 
     }
+
+    public String getName() {
+        return name;
+    }
 }
 
 
